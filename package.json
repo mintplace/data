@@ -1,5 +1,5 @@
 {
-    "name": "@mintplace/prisma",
+    "name": "@mintplace/data",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -16,9 +16,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/mintplace/prisma/issues"
+        "url": "https://github.com/mintplace/data/issues"
     },
-    "homepage": "https://github.com/mintplace/prisma#readme",
+    "homepage": "https://github.com/mintplace/data#readme",
     "dependencies": {
         "@prisma/client": "2.18.0"
     },
