@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mintplace/prisma.git"
+        "url": "git+https://github.com/mintplace/data.git"
     },
     "publishConfig": {
         "@mintplace:registry": "https://npm.pkg.github.com"
